@@ -3,9 +3,9 @@ import todoList from './component/todoList'
 
 const App = () => {
   return (
-    <div>
+    <>
       <todoList/>
-    </div>
+    </>
   )
 }
 
